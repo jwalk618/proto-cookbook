@@ -1,0 +1,7 @@
+Hurricane Helene in 2024 was a striking example of how atmospheric and oceanic interactions can perfectly align to produce a rapidly intensifying storm with multifaceted impacts.  
+Through this prototype cookbook, I explored the meteorological mechanisms behind Helene’s genesis and the measured storm surge along Florida’s West Coast.
+The genesis and intensification analysis revealed that Helene developed in a low shear, barotropic environment with warm sea surface temperatures. ERA5 reanalysis data captured the 500-hPa steering flow that guided the storm toward the Florida Panhandle, explaining the high forecast confidence.  
+Helene has an observed rapid deepening in the IBTrACS record as well, and its tropical storm force winds battered the entire West side of Florida.
+The Florida impacts notebook quantifies the storm surge along the West Coast and Panhandle and explains the vulnerability of low lying and concave coastal regions. It highlights the importance of circulation direction relative to the storm motion and location of a coastal region, as well as the importance of coastline shape and bathymetry when investigating storm surge potential. The large tropical storm wind radii contribute to a large integrated kinetic energy value, which can later be investigated through a literature review and further investigation. 
+This prototype cookbook aims to be open and reproducible for meteorological research, and serves as an exercise to demonstrate what Project Pythia is all about. 
+

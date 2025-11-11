@@ -6,15 +6,15 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers the genesis, evolution, intensification, and impact of Helene on the West Coast and Panhandle of Florida from a meteorological perspective.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+This cookbook helps me actualize an idea into a mini research project. It's helping me learn how to organize a code development project, create a website formatted project pythia research report, and find/download/use datasets to plot particular parameters to tell a part of a larger story with my group. 
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+[Anna Walker](https://github.com/aw618856/proto-cookbook)
 
 ### Contributors
 
@@ -24,15 +24,15 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+(This cookbook is broken up into two main sections - "Helene's Genesis and Intensification" and "Impacts of Storm Surge on Florida"
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Section 1 "Helene's Genesis and Intensification"
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+This section begins with plotting the IBTrACS of Helene which displays its path and intensification. For contextualization of the environment that spawned its genesis, the sea surface temperatures, steering flow and winds at 200hPa (jetstream), and the IR/Visible GOES-16 were plotted to follow Helene's week long evolution across the Gulf. 
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Section 2 "Impacts of Storm Surge on Florida"
 
-(Add content for this section, e.g., "Example workflows include ... ")
+While an unprecedented and extreme impact was felt further north by flooding in the Appalachian Mountains, Florida's West Coast and Big Bend region undeniably felt negative impacts from Helene's storm surge. This notebook delves into the intricacies of why Florida's West Coast is arguably the most vulnerable to storm surge in the United States, as well as qualtifies these impacts with tide gauges (thinking of adding another dataset). 
 
 ## Running the Notebooks
 

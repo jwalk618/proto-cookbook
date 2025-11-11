@@ -1,6 +1,11 @@
-thumbnail: thumbnail.png
+thumbnail: helene_thumbnail_150x100.png
 tags:
   domains:
-    - sampledomain
+    - hurricanes
+    - atmospheric science
   packages:
-    - samplepackage
+    - pandas
+    - xarray
+    - geopandas
+    - matplotlib
+    - s3fs

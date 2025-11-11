@@ -3,8 +3,8 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Prototype Project Repo
-  github: https://github.com/projectpythia/cookbook-template
+  title: Hurricane Helene (2024) Prototype Project Repo
+  github: https://github.com/aw618856/proto-cookbook
   authors:
     - name: Anna Walker
   copyright: '2025'
@@ -16,9 +16,15 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
-    - title: Xarray Notebook
+    - title: Genesis and Intensification 
       children:
-        - file: notebooks/xarray.ipynb
+        - file: notebooks/Helene_Genesis_To_Intensification.ipynb
+    - title: Storm Surge Impacts and Florida's Vulnerability
+      children:
+        - file: notebooks/Helene_Florida_Impacts.ipynb
+    - title: Conclusion
+      children:
+        - file: conclusion.md
   jupyter:
       binder:
         repo: projectpythia/cookbook-template
